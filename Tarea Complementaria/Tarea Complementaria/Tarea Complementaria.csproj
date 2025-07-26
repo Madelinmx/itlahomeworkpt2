@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Tarea_complementaria</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Tarea Complementaria\Tarea.cs" Link="Tarea.cs" />
+    <Compile Include="C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Tarea.cs" Link="Tarea.cs" />
+    <Compile Include="C:\Users\Madel\OneDrive\Documents\GitHub\Tarea.cs" Link="Tarea.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+</Project>
