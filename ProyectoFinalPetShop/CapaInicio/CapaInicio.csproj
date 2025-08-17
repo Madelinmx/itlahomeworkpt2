@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\petshop.datos\petshop.datos.csproj" />
+    <ProjectReference Include="..\Petshop.entidades\Petshop.entidades.csproj" />
+    <ProjectReference Include="..\Petshop.negocio\Petshop.negocio.csproj" />
+  </ItemGroup>
+
+</Project>

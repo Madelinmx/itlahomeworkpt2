@@ -1,0 +1,12 @@
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\bin\Debug\net8.0\Petshop.entidades.deps.json
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\bin\Debug\net8.0\Petshop.entidades.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\bin\Debug\net8.0\Petshop.entidades.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.csproj.AssemblyReference.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.AssemblyInfoInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.AssemblyInfo.cs
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.csproj.CoreCompileInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\refint\Petshop.entidades.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\Petshop.entidades.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.entidades\obj\Debug\net8.0\ref\Petshop.entidades.dll

@@ -1,0 +1,12 @@
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\bin\Debug\net8.0\Petshop.infraestructura.deps.json
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\bin\Debug\net8.0\Petshop.infraestructura.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\bin\Debug\net8.0\Petshop.infraestructura.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.csproj.AssemblyReference.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.AssemblyInfoInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.AssemblyInfo.cs
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\refint\Petshop.infraestructura.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\Petshop.infraestructura.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\Petshop.infraestructura\obj\Debug\net8.0\ref\Petshop.infraestructura.dll

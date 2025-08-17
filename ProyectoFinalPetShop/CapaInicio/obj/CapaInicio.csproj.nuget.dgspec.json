@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\CapaInicio\\CapaInicio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\CapaInicio\\CapaInicio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\CapaInicio\\CapaInicio.csproj",
+        "projectName": "CapaInicio",
+        "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\CapaInicio\\CapaInicio.csproj",
+        "packagesPath": "C:\\Users\\Madel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\CapaInicio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Madel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj": {
+                "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj"
+              },
+              "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj": {
+                "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj"
+              },
+              "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.negocio\\Petshop.negocio.csproj": {
+                "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.negocio\\Petshop.negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj",
+        "projectName": "petshop.datos",
+        "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj",
+        "packagesPath": "C:\\Users\\Madel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Madel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj": {
+                "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj"
+              },
+              "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.infraestructura\\Petshop.infraestructura.csproj": {
+                "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.infraestructura\\Petshop.infraestructura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj",
+        "projectName": "Petshop.entidades",
+        "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\Petshop.entidades.csproj",
+        "packagesPath": "C:\\Users\\Madel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Madel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.infraestructura\\Petshop.infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.infraestructura\\Petshop.infraestructura.csproj",
+        "projectName": "Petshop.infraestructura",
+        "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.infraestructura\\Petshop.infraestructura.csproj",
+        "packagesPath": "C:\\Users\\Madel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.infraestructura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Madel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.negocio\\Petshop.negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.negocio\\Petshop.negocio.csproj",
+        "projectName": "Petshop.negocio",
+        "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.negocio\\Petshop.negocio.csproj",
+        "packagesPath": "C:\\Users\\Madel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\Petshop.negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Madel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj": {
+                "projectPath": "C:\\Users\\Madel\\OneDrive\\Documents\\GitHub\\itlahomeworkpt2\\ProyectoFinalPetShop\\petshop.datos\\petshop.datos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

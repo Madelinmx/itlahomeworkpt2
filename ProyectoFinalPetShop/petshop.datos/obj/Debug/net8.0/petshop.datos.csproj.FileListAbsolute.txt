@@ -1,0 +1,17 @@
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\petshop.datos.deps.json
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\petshop.datos.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\petshop.datos.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\Petshop.entidades.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\Petshop.infraestructura.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\Petshop.entidades.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\bin\Debug\net8.0\Petshop.infraestructura.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.csproj.AssemblyReference.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.AssemblyInfoInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.AssemblyInfo.cs
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.csproj.CoreCompileInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop..A567136B.Up2Date
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\refint\petshop.datos.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\petshop.datos.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\ProyectoFinalPetShop\petshop.datos\obj\Debug\net8.0\ref\petshop.datos.dll
