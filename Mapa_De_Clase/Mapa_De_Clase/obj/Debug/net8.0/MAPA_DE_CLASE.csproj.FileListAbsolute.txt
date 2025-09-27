@@ -1,0 +1,15 @@
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\MAPA_DE_CLASE\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\MAPA_DE_CLASE\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.AssemblyInfoInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\MAPA_DE_CLASE\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.AssemblyInfo.cs
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\MAPA_DE_CLASE\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.csproj.CoreCompileInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\bin\Debug\net8.0\MAPA_DE_CLASE.exe
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\bin\Debug\net8.0\MAPA_DE_CLASE.dll.config
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\bin\Debug\net8.0\MAPA_DE_CLASE.deps.json
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\bin\Debug\net8.0\MAPA_DE_CLASE.runtimeconfig.json
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\bin\Debug\net8.0\MAPA_DE_CLASE.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\bin\Debug\net8.0\MAPA_DE_CLASE.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\obj\Debug\net8.0\refint\MAPA_DE_CLASE.dll
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.pdb
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\obj\Debug\net8.0\MAPA_DE_CLASE.genruntimeconfig.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\Mapa_De_Clase\MAPA_DE_CLASE\obj\Debug\net8.0\ref\MAPA_DE_CLASE.dll
