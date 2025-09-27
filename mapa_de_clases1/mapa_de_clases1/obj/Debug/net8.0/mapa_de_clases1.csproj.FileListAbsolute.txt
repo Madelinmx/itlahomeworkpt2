@@ -1,0 +1,4 @@
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\mapa_de_clases1\mapa_de_clases1\obj\Debug\net8.0\mapa_de_clases1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\mapa_de_clases1\mapa_de_clases1\obj\Debug\net8.0\mapa_de_clases1.AssemblyInfoInputs.cache
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\mapa_de_clases1\mapa_de_clases1\obj\Debug\net8.0\mapa_de_clases1.AssemblyInfo.cs
+C:\Users\Madel\OneDrive\Documents\GitHub\itlahomeworkpt2\mapa_de_clases1\mapa_de_clases1\obj\Debug\net8.0\mapa_de_clases1.csproj.CoreCompileInputs.cache
